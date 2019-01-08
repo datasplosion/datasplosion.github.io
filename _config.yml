@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: Datasplosion
+description: Personal site of Shane Milek
+
+logo: broncos.png
+show_downloads: true
+# google_analytics: [Your Google Analytics tracking ID]
