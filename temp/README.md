@@ -1,3 +1,0 @@
-# DATASPLOSION
-
-Placeholder for now...
